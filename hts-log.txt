@@ -1,0 +1,86 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 26 Jun 2026 21:03:10 at https://agasobanuye .com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://agasobanuye .com
+   
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://agasobanuyenow.com -O1 "C:\Users\PRINCE\Desktop\FGI INITIATIVE\www.iwacuagasobanuyenow.com" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://agasobanuyenow.com )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+  
+	such as username/password authentication for websites mirrored in this project
+  
+	do not share these files/folders if you want these informatio o remain private 
+ 
+  
+ 
+21:03:44	Warning: 	file not stored in cache due to bogus state ncomplete type with OK (200), size 0): https://www.highperformanceformat.com/31 0b93b7434bc285529fc5ad6d70b/invoke.js
+  
+21:11:00	Error: 	"Not Found" (404) at link https://agasobanuye .com/assets/images/no-poster.jpg (from https://agasobanuyenow.com/) 
+ 
+21:11:26	Warning: 	file not stored in cache due to bogus state ncomplete type with OK (200), size 0): https://pl28976444.profitablecpmratenetwork.co 7a373414fca22fe0382e8cfa2ed8b87/invoke.js
+  
+21:21:40	Error: 	"Not Found" (404) at link https://agasobanuye .com/cdn-cgi/l/email-protection (from https://agasobanuyenow.com/) 
+  
+21:55:01	Error: 	"Not Found" (404) at link https://agasobanuye .com/agasobanuye-box/dashboard.php (from https://agasobanuyenow.com/agasobanuye-box 
+  
+21:55:17	Error: 	"Forbidden" (403) at link https://static.wixs ic.com/media/3e4e16_8f25c77b872543b4b63f6a75785d653a~mv2.jpg/v1/fill/ 34,h_348,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/loading_edited.jpg (from https://agasobanuyenow.com/agasobanuye-box/)
+ 
+21:55:57	Error: 	"Not Found" (404) at link https://agasobanuyenow.com/agasobanuye-films/dashboard.php (from https://agasobanuyenow.com/agasobanuye-films/) 
+ 
+21:56:48	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/3e4e16_fdc736c57fd3453486e6a02e1b28c1f4~mv2.jpg/v1/fill/w_234,h_348,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/loading_edited.jpg (from https://agasobanuye .com/agasobanuye-films/)
+ 
+22:16:51	Error: 	"Not Found" (404) at link https://agasobanuyenow.com/watch/tv/the-polygamist-by-rocky/1/dashboard.php (from https://agasobanuyenow.com/watch/tv/the-polygamist-by-rocky/1/1) 
+ 
+22:19:19	Error: 	"Not Found" (404) at link https://agasobanuyenow.com/watch/tv/salem-by-rocky/1/dashboard.php (from https://agasobanuyenow.com/watch/tv/salem-by-rocky/1/1) 
+ 
+22:22:13	Error: 	"Not Found" (404) at link https://agasobanuyenow.com/watch/tv/the-master's-sun-by-rocky/1/dashboard.php (from https://agasobanuyenow.com/watch/tv/the-master's-sun-by-rocky/1/1) 
+ 
+22:23:52	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/3e4e16_2adce5887d154be883dd506c7231bba1~mv2.jpg/v1/fill/w_234,h_348,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/loading_edited.jpg (from https://agasobanuye .com/tv/the-master's-sun-by-rocky)
+ 
+22:23:52	Error: 	"Not Found" (404) at link https://agasobanuyenow.com/watch/tv/the-polygamist-by-junior-giti/1/dashboard.php (from https://agasobanuyenow.com/watch/tv/the-polygamist-by-junior-giti/1/1) 
+ 
+22:26:51	Error: 	"Not Found" (404) at link https://agasobanuyenow.com/movies/seven-snipers-by-sikov/dashboard.php (from https://agasobanuyenow.com/movies/seven-snipers-by-sikov/watch)
+
+22:27:14	Error: 	"Not Found" (404) at link https://agasobanuyenow.com/watch/tv/nemesis-by-perfect/1/dashboard.php (from https://agasobanuyenow.com/watch/tv/nemesis-by-perfect/1/1)
+
+22:28:39	Error: 	"Not Found" (404) at link https://agasobanuyenow.com/movies/revenger-by-junior-giti/dashboard.php (from https://agasobanuyenow.com/movies/revenger-by-junior-giti/watch)
+
+22:28:51	Error: 	"Not Found" (404) at link https://agasobanuyenow.com/watch/tv/my-royal-nemesis-by-perfect/1/dashboard.php (from https://agasobanuyenow.com/watch/tv/my-royal-nemesis-by-perfect/1/1)
+
+22:31:17	Error: 	"Not Found" (404) at link https://agasobanuyenow.com/movies/fuze-by-sankara/dashboard.php (from https://agasobanuyenow.com/movies/fuze-by-sankara/watch)
+
+22:31:25	Error: 	"Not Found" (404) at link https://agasobanuyenow.com/movies/race-3-by-savimbi/dashboard.php (from https://agasobanuyenow.com/movies/race-3-by-savimbi/watch)
+
+23:13:36	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/3e4e16_d5a9fa102f3d47979473d07f79e323c8~mv2.jpg/v1/fill/w_234,h_348,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/loading_edited.jpg (from https://agasobanuyenow.com/interpreters/Yanga)
+
+23:26:39	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/3e4e16_bc122290e26d49bab1cf5ef42a7c7047~mv2.jpg/v1/fill/w_234,h_348,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/loading_edited.jpg (from https://agasobanuyenow.com/interpreters/Dylan)
+
+23:28:53	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/3e4e16_1ef8746f61f747f3a9e69d57d0f51ab5~mv2.jpg/v1/fill/w_234,h_348,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/loading_edited.jpg (from https://agasobanuyenow.com/interpreters/Fred)
+
+23:28:55	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/3e4e16_c73329a335194c8c8a81708998a0582b~mv2.jpg/v1/fill/w_234,h_348,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/loading_edited.jpg (from https://agasobanuyenow.com/interpreters/Fred)
+
+23:28:59	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/3e4e16_4206697896ce4641beff61c952ffe046~mv2.jpg/v1/fill/w_234,h_348,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/loading_edited.jpg (from https://agasobanuyenow.com/interpreters/Fred)
+
+23:29:38	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/3e4e16_1289b525d035401890f8ac4be273d2ed~mv2.jpg/v1/fill/w_234,h_348,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/loading_edited.jpg (from https://agasobanuyenow.com/interpreters/Genius)
+
+23:29:51	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/3e4e16_05f2147010b44998abc42ea92dbae4e1~mv2.jpg/v1/fill/w_234,h_348,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/loading_edited.jpg (from https://agasobanuyenow.com/interpreters/Genius)
+
+23:36:20	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/3e4e16_7605d81c759646788229a2642e435909~mv2.jpg/v1/fill/w_234,h_348,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/loading_edited.jpg (from https://agasobanuyenow.com/interpreters/Moses)
+
+23:39:07	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/3e4e16_006a1a33fa274dd0a02ae718b17c3b04~mv2.jpg/v1/fill/w_234,h_348,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/loading_edited.jpg (from https://agasobanuyenow.com/interpreters/Nkuba)
+
+23:39:27	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/3e4e16_18d85fdc06a24bc9a96b6a7394a20f7c~mv2.webp/v1/fill/w_234,h_348,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/loading_edited.jpg (from https://agasobanuyenow.com/interpreters/P.K)
+
+23:40:02	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/3e4e16_ef573ab8b7b64b0a9f89f18860d27d42~mv2.jpg/v1/fill/w_234,h_348,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/loading_edited.jpg (from https://agasobanuyenow.com/interpreters/P.K)
+
+23:42:47	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/3e4e16_5a0991220398415cac7747075f0a312b~mv2.jpg/v1/fill/w_234,h_348,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/loading_edited.jpg (from https://agasobanuyenow.com/interpreters/Remy)
+
+23:43:07	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/3e4e16_f56db067f3a24804955b8e67386ed1aa~mv2.jpg/v1/fill/w_234,h_348,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/loading_edited.jpg (from https://agasobanuyenow.com/interpreters/Remy)
+
+23:46:15	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/3e4e16_1ccb69779d11445eafaa1353a3e31edc~mv2.jpg/v1/fill/w_234,h_348,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/loading_edited.jpg (from https://agasobanuyenow.com/interpreters/Ryan)
+
+23:54:37	Error: 	"Bad Request" (400) at link https://static.wixstatic.com/media/b7e546_3370a27d4f554b1e94faeb35bc0613c9~mv2.jpg/v1/fill/w_234,h_348,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/loading_edited.jpg (from https://agasobanuyenow.com/interpreters/Yakuza)
+
+11:45:11	Error: 	Exit requested by shell or user
+
